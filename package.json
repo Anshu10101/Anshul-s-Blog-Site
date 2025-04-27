@@ -3,14 +3,14 @@
   "version": "2.2.0",
   "private": true,
   "engines": {
-    "node": ">=18.x",
+    "node": "18.x",
     "npm": ">=9.x"
   },
   "scripts": {
     "start": "next dev",
     "dev": "cross-env INIT_CWD=$PWD next dev",
     "postinstall": "npx prisma generate",
-    "build": "next build && node ./scripts/postbuild.mjs",
+    "build": "next build && cross-env NODE_OPTIONS='--experimental-vm-modules' node ./scripts/postbuild.mjs",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "prepare": "husky install",
