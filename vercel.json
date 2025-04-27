@@ -4,5 +4,8 @@
       "source": "/stats/:match*",
       "destination": "https://analytics.anshul.dev/:match*"
     }
-  ]
+  ],
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs"
 }

@@ -2,6 +2,10 @@
   "name": "anshul.dev",
   "version": "2.2.0",
   "private": true,
+  "engines": {
+    "node": ">=18.x",
+    "npm": ">=9.x"
+  },
   "scripts": {
     "start": "next dev",
     "dev": "cross-env INIT_CWD=$PWD next dev",
