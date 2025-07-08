@@ -36,28 +36,3 @@ A few major over-engineering-changes from the original repo:
 ## Express Your Support
 
 If this project has been beneficial, show your appreciation with a ⭐
-
-## Image Credits
-
-The images utilized within this blog originate from [Unsplash](https://unsplash.com/), GIFs are sourced from [GIPHY](https://giphy.com/), and illustrations are from [Storyset](https://storyset.com/).
-
-Extending sincere thanks for these exceptional resources 🙏
-
----
-
-<p align="center"><b>Copyright © 2025 - Anshul</b></p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[Typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-[Typescript-url]: https://www.typescriptlang.org/
-[Tailwind CSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Tailwind CSS-url]: https://tailwindcss.com/
-[MDX]: https://img.shields.io/badge/MDX-000000?style=for-the-badge&logo=mdx&logoColor=white
-[MDX-url]: https://mdxjs.com/
-[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
-[Vercel-url]: https://vercel.com/
